@@ -1,0 +1,19 @@
+{
+  "name": "cypress-exercise-allen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "@faker-js/faker": "^8.4.0"
+  }
+}
